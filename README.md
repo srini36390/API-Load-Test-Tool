@@ -5,6 +5,8 @@ API load tester (Python/Tkinter). Send concurrent requests, analyze response tim
 
 This Python application provides a basic, easy-to-use graphical interface for load testing APIs. It allows you to simulate concurrent requests, analyze performance metrics, and identify potential bottlenecks.
 
+![Uploading image.png…]()
+
 ## Features
 
 * **API Load Testing:** Simulates concurrent requests to a specified API endpoint (GET/POST).
