@@ -1,11 +1,6 @@
-# API-Load-Test-Tool
-API load tester (Python/Tkinter). Send concurrent requests, analyze response times, errors, &amp; pass rates. Visualize results with a graph. JSON input for headers/body. Logs to file. Basic, dev-friendly tool for quick API performance checks.
-
 # API Load Testing Tool (Python/Tkinter)
 
 This Python application provides a basic, easy-to-use graphical interface for load testing APIs. It allows you to simulate concurrent requests, analyze performance metrics, and identify potential bottlenecks.
-
-![Uploading image.png…]()
 
 ## Features
 
